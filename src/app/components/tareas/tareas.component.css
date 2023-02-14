@@ -1,0 +1,15 @@
+input{
+    text-align: center;
+}
+
+.form-control-lg{
+    font-size: 1.8rem;
+}
+
+.card{
+    text-align: center;
+}
+
+.cursor{
+    cursor: pointer;
+}
